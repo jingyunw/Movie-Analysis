@@ -54,5 +54,15 @@ Because there is a limit amount of time and this is phase 1 project, I think fur
 * <b>Movie Trailer</b> - A better movie trailers can attract more customers earlier. Select length and releasing date of movie trailers are also important factors of successful movies.
 
 ## For More Information
-See the full analysis in the jupyter notebook .<br>
+See the full analysis and modeling in the [Jupyter Notebook](./Notebook.ipynb) and [presentation](./Presentation.pdf).
 For additional information please contact, JingYun (Jonna) Wang at jingyunwang24@gmail.com
+
+## Repository Structure
+```
+├── data
+├── images
+├── Notebook.ipynb
+├── Presentation.pdf
+├── README.md
+└── zippedData_Preview.ipynb
+```
